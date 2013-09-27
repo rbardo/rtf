@@ -22,13 +22,49 @@
             <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
         <![endif]-->
        
-        <div class="container">
-            <?php include "php/header.php";?>
+        <div class="container container-bg">
+            <?php include "php/nav.php";?>
+            <header>
+                <div>
+                    <h1 class="text-center">REAL TRAINING<span class="red">.</span> REAL FITNESS<span class="red">.</span> REAL RESULTS<span class="red">.</span></h1>
+                </div>
+            </header>
             <section class="row">
-                <div class="col-md-12">
-                    <h1>suck balls</h1>
+                <div class=" nopad col-lg-12">
+                <?php include "php/snippet-carousel.php";?>
                 </div>
             </section>
+            <section class="row">
+                <div class="col-md-4 col-sm-4 text-center">
+                    <div class="home-blocks">
+                        <img src="img/gf_icon.png" alt="">
+                        <h2>Group Fitness</h2>
+                        <p class="text-center">We specialize in sport specific training, weight loss, muscle and strength gain and injury rehabilitation </p>
+                        <a href="#" class="btn btn-primary btn-lg">Fitness Classes</a>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-4 text-center">
+                    <div class="home-blocks">
+                        <img src="img/pt_icon.png" alt="">
+                        <h2>Personal Training</h2>
+                        <p class="text-center">We specialize in sport specific training, weight loss, muscle and strength gain and injury rehabilitation </p>
+                        <a href="#" class="btn btn-primary btn-lg">Personal Training</a>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-4 text-center">
+                    <div class="home-blocks">
+                        <img src="img/pt_icon.png" alt="">
+                        <h2>Membership</h2>
+                        <p class="text-center">We specialize in sport specific training, weight loss, muscle and strength gain and injury rehabilitation </p>
+                        <a href="#" class="btn btn-primary btn-lg">Sign Up Today</a>
+                    </div>
+                </div>
+            </section> <!-- end home blocks -->
+            <section class="row fitness-feed">
+                <div class="col-md-12 well well-md">
+                    <h2>Latest Fitness News</h2>
+                </div>
+            </section> <!-- end news feed --> 
         </div>
         
         <!-- scripts -->

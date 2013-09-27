@@ -16,6 +16,7 @@
 				<li><a href="">Membership</a></li>
 				<li><a href="">Training</a></li>
 				<li><a href="">Results</a></li>
+				<li><a href="">Fitness News</a></li>
 				<li><a href="">Contact</a></li>
 			</ul>
 		</div>

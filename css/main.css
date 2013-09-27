@@ -19,7 +19,7 @@ textarea {
 }
 
 body {
-    font-size: 1em;
+    font-size: 16px;
     line-height: 1.4;
     background-image: url("../img/bg.jpg");
     height: 100%;
@@ -95,25 +95,41 @@ textarea {
    Author's custom styles
    ========================================================================== */
 body {
-    padding-top: 120px;
+    padding-top: 100px;
 }
 
 header {
-    width: 100%;
-    background-color: #000000;
-    position: fixed;
-    display: block;
-    margin: 0 auto;
+    border-top: 2px dotted #CDCDCD;
+    border-bottom: 2px dotted #CDCDCD;
+    margin: 20px 0 20px 0;
 }
-
+header h1{
+    font-family: 'Carrois Gothic', sans-serif;
+    font-size: 50px;
+    color: #757575;   
+}
+h2 {
+    font-family: 'Carrois Gothic', sans-serif;
+}
+.container-bg {
+    background-color: white;
+    border-radius: 6px;
+    border: 1px solid #CFCFCF;
+    margin-bottom: 20px;
+}
 .navbar-inverse .navbar-nav > li > a {
     color: #FFFFFF;
     font-size: 18px;
     font-family: 'Carrois Gothic', sans-serif;
 }
-
+.navbar {
+    border-bottom: 4px solid #CC1400;
+}
+.nopad {
+    padding: 0;
+}
 .navbar-nav {
-    margin-top: 50px;
+    margin-top: 20px;
 }
 @media (max-width: 768px) {
     .navbar-nav  {
@@ -135,11 +151,61 @@ header {
     }
 }
 
+.carousel-caption h2 {
+    font-size: 50px;
+    
+}
+.carousel-caption p {
+    font-size: 25px;
+}
+.home-blocks {
+    background-color: #CC1400;
+    margin-top: 20px;
+    border-radius: 2px;
+}
+.home-blocks h2 {
+    color: white;
+    padding-top: 10px;
+    text-shadow: 1px 1px #000000;
+    margin: 0;
+    font-family: 'Carrois Gothic', sans-serif;
+}
+.home-blocks p {
+    color: #E0E0E0;
+    margin: 0;
+    padding: 10px 30px 10px 30px;
+    font-family: 'Carrois Gothic', sans-serif;
+    font-size: 16px;
+}
+.home-blocks .btn {
+    margin: 15px 0 15px 0;
+}
+.home-blocks img {
+    margin: 10px 0 0 0;
+}
+.btn-primary {
+  color: #ffffff;
+  background-color: #000000;
+  border-color: transparent;
+  border-radius: 2px;
+}
 
-
-
-
-
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+  color: #ffffff;
+  background-color: #1F1F1F;
+  border-color: #1F1F1F;
+}
+.fitness-feed .well {
+    margin-top: 20px;
+    border-radius: 0;
+}
+.red {
+    color: #CC1400;
+}
 /* ==========================================================================
    Helper classes
    ========================================================================== */
