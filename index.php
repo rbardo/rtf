@@ -60,13 +60,29 @@
                     </div>
                 </div>
             </section> <!-- end home blocks -->
-            <section class="row fitness-feed">
-                <div class="col-md-12 well well-md">
-                    <h2>Latest Fitness News</h2>
+            <section class="row competition">
+                <div class="col-md-12 well well-md text-center">
+                    <h2>Interested In Becoming An RTF Athlete?</h2>
+                    <p>Our competition training has helped many RTF athletes reach their goals and achieve top ranks in national competition</p>
+                    <button class="btn btn-danger">Competition Training Details</button>
                 </div>
-            </section> <!-- end news feed --> 
-        </div>
-        
+            </section> <!-- end competition block --> 
+            <section class="row">
+                <div class="col-md-4 text-center">
+                    <h3>Facbook Posts</h3>
+                </div>
+                <div class="col-md-4 text-center">
+                    <h3>Our Tweets</h3>
+                </div>
+                <div class="col-md-4 text-center fitness-feed">
+                    <h3>Recent Fitness News</h3>
+                    <h4><a href="#">Post Title Goes Here</a></h4>
+                    <p class="post-date">post date</p>
+                    <p>This is where the post body excerpt will go, and link to the full page article.</p>
+                </div>
+            </section>
+        </div> <!-- end content container --> 
+        <?php include "php/footer.php";?>
         <!-- scripts -->
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>

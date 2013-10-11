@@ -124,6 +124,7 @@ h2 {
 }
 .navbar {
     border-bottom: 4px solid #CC1400;
+    opacity: 0.9;
 }
 .nopad {
     padding: 0;
@@ -199,13 +200,70 @@ h2 {
   background-color: #1F1F1F;
   border-color: #1F1F1F;
 }
-.fitness-feed .well {
+.competition {
     margin-top: 20px;
-    border-radius: 0;
 }
+
 .red {
     color: #CC1400;
 }
+@media (min-width: 994px) and (max-width: 1200px) {
+    header h1 {
+        font-size: 40px;
+    }
+}
+@media (min-width: 600px) and (max-width: 993px) {
+    header h1 {
+        font-size: 25px;
+    }
+}
+@media (min-width: 320px) and (max-width: 599px){
+    header h1 {
+        font-size: 20px;
+    }
+}
+footer {
+    background-color: #2D2D2D;
+    border-top: 3px dotted #BBBBBB;
+}
+footer h2 {
+    color: #AEAEAE;
+    text-shadow: 1px 1px #000000;
+}
+footer ul li {
+    color: #FFFFFF;
+    text-shadow: 1px 1px #000000;
+    list-style-type: none;
+}
+.post-date {
+    font-style: italic;
+}
+.btn-danger {
+    color: #ffffff;
+    background-color: #CC1400;
+    border-color: #CC1400;
+}
+.btn-danger:hover,
+.btn-danger:focus,
+.btn-danger:active,
+.btn-danger.active,
+.open .dropdown-toggle.btn-danger {
+  color: #ffffff;
+  background-color: #C02E29;
+  border-color: #C02E29;
+}
+.fitness-feed {
+    padding:20px;
+}
+.fitness-feed h4  {
+    text-align: left;
+    margin-bottom: 0;
+}
+.fitness-feed p {
+    text-align: left;
+}
+
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
