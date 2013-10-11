@@ -26,7 +26,7 @@
             <?php include "php/nav.php";?>
             <header>
                 <div>
-                    <h1 class="text-center">REAL TRAINING<span class="red">.</span> REAL FITNESS<span class="red">.</span> REAL RESULTS<span class="red">.</span></h1>
+                    <h1 class="text-center">REAL<span class="red"> TRAINING.</span> REAL<span class="red"> FITNESS .</span> REAL<span class="red"> RESULTS.</span></h1>
                 </div>
             </header>
             <section class="row">
@@ -75,9 +75,9 @@
                     <h3>Our Tweets</h3>
                 </div>
                 <div class="col-md-4 text-center fitness-feed">
-                    <h3>Recent Fitness News</h3>
+                    <h3><span class="glyphicon glyphicon-bullhorn"></span> Recent Fitness News</h3>
                     <h4><a href="#">Post Title Goes Here</a></h4>
-                    <p class="post-date">post date</p>
+                    <em>post date</em>
                     <p>This is where the post body excerpt will go, and link to the full page article.</p>
                 </div>
             </section>
@@ -87,7 +87,9 @@
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
         <script src="js/plugins.js"></script>
-        <script src="js/main.js"></script>
         <script src="js/bootstrap.js"></script>
+        <script src="js/main.js"></script>
+        <script src="http://maps.googleapis.com/maps/api/js?sensor=false" type="text/javascript"></script>
+        <script src="js/map.js"></script>
     </body>
 </html>
