@@ -102,7 +102,7 @@ body {
 header {
     border-top: 2px dotted #CDCDCD;
     border-bottom: 2px dotted #CDCDCD;
-    margin: 20px 0 20px 0;
+    margin: 10px 0 10px 0;
 }
 header h1{
     font-family: 'Carrois Gothic', sans-serif;
@@ -112,10 +112,14 @@ header h1{
 h2 {
     font-family: 'Carrois Gothic', sans-serif;
 }
+.competition h2 {
+    margin-top: 0;
+}
 .container-bg {
     background-color: white;
     border-radius: 6px;
     border: 1px solid #CFCFCF;
+    padding-bottom: 25px;
     margin-bottom: 20px;
 }
 .navbar-inverse .navbar-nav > li > a {
@@ -161,9 +165,19 @@ h2 {
     font-size: 25px;
 }
 .home-blocks {
-    background-color: #CC1400;
     margin-top: 20px;
     border-radius: 2px;
+}
+.gf {
+    background-color: #CC1400;
+
+}
+.pt {
+    background-color: #8F2600;
+}
+.mb {
+    background-color: #B22F00;
+
 }
 .home-blocks h2 {
     color: white;
@@ -201,6 +215,21 @@ h2 {
   background-color: #1F1F1F;
   border-color: #1F1F1F;
 }
+.btn-secondary {
+    color: white;
+    background-color: #FD0000;
+    border-color: transparent;
+    border-radius: 2px;
+}
+.btn-secondary:hover,
+.btn-secondary:focus,
+.btn-secondary:active,
+.btn-secondary.active,
+.open .dropdown-toggle.btn-secondary {
+    color: white;
+    background-color: #7F0000;
+    border-color: transparent;
+}
 .competition {
     margin-top: 20px;
 }
@@ -224,8 +253,7 @@ h2 {
     }
 }
 footer {
-    background-color: #2D2D2D;
-    border-top: 3px dotted #BBBBBB;
+   background-image: url("../img/footerbg.jpg");
     padding-bottom: 20px;
 }
 footer h2 {
@@ -256,24 +284,29 @@ footer ul li {
     
 }
 .fitness-feed h4  {
-    text-align: center;
+    text-align: left;
     margin-bottom: 0;
     padding-top: 15px;
 }
 .fitness-feed p {
-    text-align: center;
+    text-align: left;
     padding-top: 10px;
+}
+.fitness-feed em {
+    font-size: 14px;
 }
 .hours-module {
     background-color: #000000;
     border-left: 5px solid #CC1400;
-    margin-top: 60px;
+    margin-top: 40px;
+    border-radius: 5px;
 }
 .hours-module h2 {
     background-color: #CC1400;
     padding: 20px;
     margin-bottom: 0;
     color: white;
+    border-top-right-radius: 5px;
 
 }
 .hours-module h3 {
@@ -282,10 +315,62 @@ footer ul li {
     font-size: 18px;
     margin: 0;
 }
+.hours-description {
+    font-size: 14px;
+    font-style: italic;
+    color: #B0B0B0;
+}
 .odd {
     background-color: #1D1D1D;
 }
+#map_listing {
+    margin-top: 40px;
+}
+.social-well {
+    background-color: #1F1F1F;
+    border: 1px solid #2C2C2C;
+    margin: 25px 0 0 0 ;
+    border-radius: 5px;
+    padding: 5px 0 5px 0;
+}
+.social-well h2 {
+    margin-top: 0;
+    color: white;
+}
+.footer-copyright {
+    margin-top: 25px;
+    border-top: 2px solid black;
+    color: #A6A6A6;
+    padding: 15px;
+}
+form h3 {
+    margin-top: 0;
+    color: white;
+    font-size: 22px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #7B020C;
+}
+form.well-md {
+    border-radius: 5px;
+    background-color: #8F2600;
+}
+form p {
+    color: black;
+    font-size: 18px;
+}
+.form-group label {
+    color: #EEEEEE;
+    font-weight: normal;
+}
 
+.checkbox label {
+    color: #EEEEEE;
+}
+.title {
+    margin: 5px 0 0 0 ;
+    font-size: 20px;
+
+}
 /* ==========================================================================
    Helper classes
    ========================================================================== */

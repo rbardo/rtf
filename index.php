@@ -26,7 +26,7 @@
             <?php include "php/nav.php";?>
             <header>
                 <div>
-                    <h1 class="text-center">REAL<span class="red"> TRAINING.</span> REAL<span class="red"> FITNESS .</span> REAL<span class="red"> RESULTS.</span></h1>
+                    <h1 class="text-center">Real Training. Real Fitness. <span class="red">Real Results.</span></h1>
                 </div>
             </header>
             <section class="row">
@@ -36,7 +36,7 @@
             </section>
             <section class="row">
                 <div class="col-md-4 col-sm-4 text-center">
-                    <div class="home-blocks">
+                    <div class="home-blocks gf">
                         <img src="img/gf_icon.png" alt="">
                         <h2>Group Fitness</h2>
                         <p class="text-center">We specialize in sport specific training, weight loss, muscle and strength gain and injury rehabilitation </p>
@@ -44,7 +44,7 @@
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-4 text-center">
-                    <div class="home-blocks">
+                    <div class="home-blocks pt">
                         <img src="img/pt_icon.png" alt="">
                         <h2>Personal Training</h2>
                         <p class="text-center">We specialize in sport specific training, weight loss, muscle and strength gain and injury rehabilitation </p>
@@ -52,7 +52,7 @@
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-4 text-center">
-                    <div class="home-blocks">
+                    <div class="home-blocks mb">
                         <img src="img/pt_icon.png" alt="">
                         <h2>Membership</h2>
                         <p class="text-center">We specialize in sport specific training, weight loss, muscle and strength gain and injury rehabilitation </p>
@@ -61,26 +61,25 @@
                 </div>
             </section> <!-- end home blocks -->
             <section class="row competition">
-                <div class="col-md-12 well well-md text-center">
-                    <h2>Interested In Becoming An RTF Athlete?</h2>
+                <div class="col-md-12 well well-md  text-center">
+                    <h2>Our Current Promotion</h2>
                     <p>Our competition training has helped many RTF athletes reach their goals and achieve top ranks in national competition</p>
-                    <button class="btn btn-danger">Competition Training Details</button>
+                    <button class="btn btn-secondary">View Promotion Detials</button>
                 </div>
             </section> <!-- end competition block --> 
             <section class="row">
-                <div class="col-md-4 text-center">
-                    <h3>Facbook Posts</h3>
-                </div>
-                <div class="col-md-4 text-center">
-                    <h3>Our Tweets</h3>
-                </div>
-                <div class="col-md-4 text-center fitness-feed">
-                    <h3><span class="glyphicon glyphicon-bullhorn"></span> Recent Fitness News</h3>
+                <div class="col-md-6">
+                    <h2 class="text-center"><span class="glyphicon glyphicon-calendar"></span> Group Fitness Schedule</h2>
+                   <?php include "php/classes-accordion.php";?> 
+                </div> <!-- end classes accordion -->
+                <div class="col-md-6 fitness-feed">
+                    <h2 class="text-center"><span class="glyphicon glyphicon-bullhorn"></span> Recent Fitness News</h2>
                     <h4><a href="#">Post Title Goes Here</a></h4>
                     <em>post date</em>
-                    <p>This is where the post body excerpt will go, and link to the full page article.</p>
-                </div>
-            </section>
+                    <p>This is where the post body excerpt will go, and link to the full page article.This is where the post body excerpt will go, and link to the full page article. This is where the post body excerpt will go, and link to the full page article.</p>
+                </div> <!-- end fitness news feed -->
+            </section> <!-- end fitness schedule and fitness feed -->
+            
         </div> <!-- end content container --> 
         <?php include "php/footer.php";?>
         <!-- scripts -->
