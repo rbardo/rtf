@@ -64,7 +64,7 @@
                 <div class="col-md-12 well well-md  text-center">
                     <h2>Our Current Promotion</h2>
                     <p>Our competition training has helped many RTF athletes reach their goals and achieve top ranks in national competition</p>
-                    <button class="btn btn-secondary">View Promotion Detials</button>
+                    <button class="btn btn-secondary">Sign Up Today</button>
                 </div>
             </section> <!-- end competition block --> 
             <section class="row">
