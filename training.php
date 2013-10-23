@@ -29,34 +29,58 @@
                     <h1 class="text-center">Real Training. Real Fitness. <span class="red">Real Results.</span></h1>
                 </div>
             </header>
-            <section class="row">
+            <section class="row" id="training">
                 <div class="col-md-12">
                     <article class="col-md-8">
-                      <img src="img/about_header.jpg" alt="erie fitness personal training" class="img-responsive img-thumbnail">
-                      <h2>Training &amp; Fitness That Delivers Results</h2>
-                      <p>Real Training and Fitness was developed for one purpose; to provide the Erie Community with a facility focused on Results. Whether your goal is weight loss and toning up, injury rehabilitation, or athletic sports training we are the professionals to see. Our staff holds itself 100% responsible for you attaining your goals. Most importantly this level of service is given to each and every member.</p>
-                      <h2>Leadership Team</h2>
-                      <p>Real Training and Fitness was developed for one purpose; to provide the Erie Community with a facility focused on Results. Whether your goal is weight loss and toning up</p>
+                      <h2>Training That Fits Your Style</h2>
+                      <p>Real Training and Fitness offers its members the benefit of choosing the type of training that fits their style and preference. Whether you want one-on-one trianing to meet your fitness goals, enjoy group fitness classes, or have the desire to compete, we've got you covered by offering three types of trianing:</p>
                       <div class="row">
-                          <div class="col-md-3 col-sm-4 col-xs-4 text-center ">
-                              <img src="img/jackbio_tn.jpg" alt="" class="img-thumbnail">
-                              <h3 class="title"><a data-toggle="modal" href="#jack-modal">Jack Sullivan</a></h3>
-                              <small>Owner / CEO</small>
+                        <div class="col-md-4">
+                          <div class=" training-types pt">
+                            
+                            <h3>Personal Training</h3>
                           </div>
-                          <div class="col-md-3 col-sm-4 col-xs-4 text-center modalphotos">
-                              <img src="img/tonybio_tn.jpg" alt="" class="img-thumbnail">
-                              <h3 class="title"><a data-toggle="modal" href="#tony-modal">Tony Bevaqua</a></h3>
-                              <small>General Manager</small>
+                        </div>
+                        <div class="col-md-4">
+                          <div class=" training-types gf">
+                            
+                            <h3>Group Fitness</h3>
                           </div>
-                      </div>  
+                        </div>
+                        <div class="col-md-4">
+                          <div class=" training-types mb ">
+                            
+                            <h3>Competition Training</h3>
+                          </div>
+                        </div>
+                      </div> <!-- end types of training -->
+                      <div class="row">
+                        <div class="col-md-12 top-margin">
+                        <img class="img-responsive img-thumbnail " src="img/pt1.jpg" alt="">
+                       </div>
+                      </div>
+                      <div class="row">
+                        <div class="col-md-12">
+                          <?php include "php/training-accordion.php";?>
+                        </div>
+                      </div>
+                      <h3>Our Personal Trainers</h3>
+                        <?php include "php/snippet-trainersmodal.php";?>
+                   
                     </article> <!-- end left content block -->
                     <aside class="col-md-4">
+                      <div class="row">
+                          <div class="col-md-12">
+                            <h2 class="text-center"><span class="glyphicon glyphicon-calendar"></span> Group Fitness Schedule</h2>
+                            <?php include "php/classes-accordion.php";?>
+                          </div>
+                        </div>
                         <?php include"php/form.php";?>
                     </aside> <!-- end sidebar -->
                 </div> <!-- end main content column -->
             </section> <!-- end content wrapper -->
             <!-- modal -->
-            <?php include "php/snippet-aboutusmodalbio.php";?>
+            
 
         </div> <!-- end container --> 
         <?php include "php/footer.php";?>

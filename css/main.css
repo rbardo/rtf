@@ -112,6 +112,9 @@ header h1{
 h2 {
     font-family: 'Carrois Gothic', sans-serif;
 }
+h3 {
+    font-family: 'Carrois Gothic', sans-serif;
+}
 .competition h2 {
     margin-top: 0;
 }
@@ -368,8 +371,35 @@ form p {
 }
 .title {
     margin: 5px 0 0 0 ;
-    font-size: 20px;
+    font-size: 18px;
 
+}
+.modal-body ul {
+    
+}
+.training-types {
+    padding: 15px;
+    text-align: center;
+}
+.training-types h3 {
+    color: white;
+    font-size: 20px;
+    margin: 0
+}
+#accordion {
+    margin-bottom: 15px;
+}
+.top-margin {
+    margin-top: 15px;
+}
+.panel-default > .panel-heading-training {
+    color: black;
+    background-color: #F0F0F0;
+    border-color: transparent;
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
 }
 /* ==========================================================================
    Helper classes

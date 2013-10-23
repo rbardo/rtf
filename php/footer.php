@@ -4,11 +4,11 @@
 			<div class="col-md-12 text-center">
 				<h2>Connect With Us</h2>
 				<div class="row">
-					<div class="col-md-1 col-md-offset-5">
-						<a href=""><img src="img/facebook.png" alt=""></a>
+					<div class="col-md-1 col-sm-2 col-xs-2 col-md-offset-5 col-sm-offset-4 col-xs-offset-4 ">
+						<a href=""><img class="img-responsive" src="img/facebook.png" alt=""></a>
 					</div>
-				 	<div class="col-md-1">
-				 		<a href=""><img src="img/twitter.png" alt=""></a>
+				 	<div class="col-md-1 col-sm-2 col-xs-2">
+				 		<a href=""><img class="img-responsive" src="img/twitter.png" alt=""></a>
 				 	</div>					
 				</div>
 			</div>

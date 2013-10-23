@@ -13,7 +13,7 @@
 		<div class="collapse navbar-collapse navbar-m-collapse ">
 			<ul class="nav navbar-nav navbar-right">
 				<li><a href="about.php">About Us</a></li>
-				<li><a href="">Training</a></li>
+				<li><a href="training.php">Training</a></li>
 				<li><a href="">Results</a></li>
 				<li><a href="">Fitness News</a></li>
 				<li><a href="">Contact</a></li>

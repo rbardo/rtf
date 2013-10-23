@@ -73,10 +73,7 @@
                    <?php include "php/classes-accordion.php";?> 
                 </div> <!-- end classes accordion -->
                 <div class="col-md-6 fitness-feed">
-                    <h2 class="text-center"><span class="glyphicon glyphicon-bullhorn"></span> Recent Fitness News</h2>
-                    <h4><a href="#">Post Title Goes Here</a></h4>
-                    <em>post date</em>
-                    <p>This is where the post body excerpt will go, and link to the full page article.This is where the post body excerpt will go, and link to the full page article. This is where the post body excerpt will go, and link to the full page article.</p>
+                    <?php include "php/snippet-fitnessfeed.php";?>
                 </div> <!-- end fitness news feed -->
             </section> <!-- end fitness schedule and fitness feed -->
             
