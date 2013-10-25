@@ -52,7 +52,13 @@
                     </article> <!-- end left content block -->
                     <aside class="col-md-4">
                         <?php include"php/form.php";?>
-                        <?php include "php/snippet-fitnessfeed.php";?>
+                        <div class="row">
+                          <div class="col-md-12">
+                            <div class="well well-md">
+                            <?php include "php/snippet-fitnessfeed.php";?>
+                            </div>
+                          </div>
+                        </div>
                     </aside> <!-- end sidebar -->
                 </div> <!-- end main content column -->
             </section> <!-- end content wrapper -->

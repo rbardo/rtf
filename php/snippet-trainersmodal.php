@@ -1,17 +1,17 @@
 <section class="row">
-	<div class="col-md-3 col-sm-3 text-center">
+	<div class="col-md-3 col-sm-3 col-xs-6 text-center">
 		<img class="img-responsive img-thumbnail"src="img/jackbio.jpg" alt="">
 		<h3 class="title"><a data-toggle="modal" href="#jack-modal">Jack Sullivan</a></h3>
 	</div>
-	<div class="col-md-3 col-sm-3 text-center">
+	<div class="col-md-3 col-sm-3 col-xs-6 text-center">
 		<img class="img-responsive img-thumbnail" src="img/shea_cpt.jpg" alt="">
 		<h3 class="title"><a data-toggle="modal" href="#shea-modal">Shea Sullivan</a></h3>
 	</div>
-	<div class="col-md-3 col-sm-3 text-center">
+	<div class="col-md-3 col-sm-3 col-xs-6 text-center">
 		<img class="img-responsive img-thumbnail" src="img/ryan_cpt.jpg" alt="">
 		<h3 class="title"><a data-toggle="modal" href="#ryan-modal">Ryan Sherwood</a></h3>
 	</div>
-	<div class="col-md-3 col-sm-3 text-center">
+	<div class="col-md-3 col-sm-3 col-xs-6 text-center">
 		<img class="img-responsive img-thumbnail" src="img/antoinette_cpt.jpg" alt="">
 		<h3 class="title"><a data-toggle="modal" href="#antoinette-modal">Antoinette Sullivan</a></h3>
 	</div>

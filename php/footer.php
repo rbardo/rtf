@@ -46,11 +46,6 @@
 				</h3>
 			</div>
 		</div> <!-- end operating hours footer module  -->
-		<div class="col-md-4 text-center">                   
-			<a href="http://g.co/maps/tc5ay" target="_blank">
-	        	<div id="map_listing" style="width: 100%; height: 350px;"></div>
-	        </a>
-		</div> <!-- end map footer module  -->
 		<div class="col-md-4">
 			<div class="hours-module">
 				<h2 class="text-center">Gym Information</h2>
@@ -68,6 +63,11 @@
 				</h3>
 			</div>
 		</div> <!-- end gym information footer module -->
+		<div class="col-md-4 text-center">                   
+			<a href="http://g.co/maps/tc5ay" target="_blank">
+	        	<div id="map_listing" style="width: 100%; height: 350px;"></div>
+	        </a>
+		</div> <!-- end map footer module  -->
 		
 	</div> <!-- end footer container -->
 	<div class="row">
