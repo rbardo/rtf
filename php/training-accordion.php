@@ -24,13 +24,17 @@
 	<div class="panel panel-default">
 		<div class="panel-heading-training">
 			<h4 class="panel-title">
-				<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion"href="#group-fitness">Group Fitness</a>
+				<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion"href="#group-fitness">Group Fitness Classes</a>
 			</h4>
 		</div>
 		<div id="group-fitness" class="panel-collapse collapse">
 			<div class="panel-body">
-				<p>At RTF we have personal training options that fit every lifestyle and budget. We can customize a program based on your goals and back it up with a guarantee that your results will come! Our trainers specialize in many facets of training, have years of experience, and are all professionally qualified. RTF’s trainers specialize in:</p>
-				
+				<h3>TRX</h3>
+				<p>Make your body, your machine! Born in the U.S. Navy SEALS, Suspension Training® is a revolutionary method of leveraged bodyweight exercise. Easily set up the club TRX® Suspension Trainer™ and you’re in control. Safely perform hundreds of exercises that build power, strength, flexibility, balance, mobility, and prevent injuries, all at the intensity you choose. Limit 8 participants per session.</p>
+				<h3>Total Body Conditioning</h3>
+				<p>This 45 minute session combines the best of simple strength and cardio exercises. Sports drills and challenges will help you reach new levels of fitness. (includes: Kettle bells, TRX, Spin-ning, resistance, cardio and weight training) Limit 8 participants</p>
+				<h3>Kettlebell</h3>
+				<p>Be prepared to work! Functional, compound exercises work multiple muscle groups simultaneously, developing strength and muscular endurance and efficient caloric expenditure. With a focus on integrating breathing, movement and alignment with your ability to control balance and weight. Limit 8.</p>
 			</div> <!-- panel body -->
 		</div>
 	</div> <!-- group fitness panel -->	

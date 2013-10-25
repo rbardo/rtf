@@ -383,7 +383,7 @@ form p {
 }
 .training-types h3 {
     color: white;
-    font-size: 20px;
+    font-size: 16px;
     margin: 0
 }
 #accordion {
@@ -400,6 +400,10 @@ form p {
     border-bottom: 1px solid transparent;
     border-top-right-radius: 3px;
     border-top-left-radius: 3px;
+}
+.img-center {
+    display: block;
+    margin: 0 auto;
 }
 /* ==========================================================================
    Helper classes

@@ -32,22 +32,21 @@
             <section class="row" id="training">
                 <div class="col-md-12">
                     <article class="col-md-8">
-                      <h2>Training That Fits Your Style</h2>
+                      <h2>Change The Way You Train</h2>
                       <p>Real Training and Fitness offers its members the benefit of choosing the type of training that fits their style and preference. Whether you want one-on-one trianing to meet your fitness goals, enjoy group fitness classes, or have the desire to compete, we've got you covered by offering three types of trianing:</p>
                       <div class="row">
-                        <div class="col-md-4">
+                        <div class="col-md-4 col-sm-4 hidden-xs ">
                           <div class=" training-types pt">
-                            
                             <h3>Personal Training</h3>
                           </div>
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-4 col-sm-4 hidden-xs ">
                           <div class=" training-types gf">
                             
                             <h3>Group Fitness</h3>
                           </div>
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-4 col-sm-4 hidden-xs ">
                           <div class=" training-types mb ">
                             
                             <h3>Competition Training</h3>
@@ -55,7 +54,7 @@
                         </div>
                       </div> <!-- end types of training -->
                       <div class="row">
-                        <div class="col-md-12 top-margin">
+                        <div class="col-md-12 top-margin hidden-xs">
                         <img class="img-responsive img-thumbnail " src="img/pt1.jpg" alt="">
                        </div>
                       </div>
