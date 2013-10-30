@@ -15,6 +15,7 @@
         <link rel="stylesheet" href="css/bootstrap.css">
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/colorbox.css" />
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
     <body>
@@ -32,9 +33,10 @@
             <section class="row">
                 <div class="col-md-12">
                     <article class="col-md-8">
-                      <img src="img/about_header.jpg" alt="erie fitness personal training" class="img-responsive img-thumbnail">
                       <h2>Training &amp; Fitness That Delivers Results</h2>
                       <p>Real Training and Fitness was developed for one purpose; to provide the Erie Community with a facility focused on Results. Whether your goal is weight loss and toning up, injury rehabilitation, or athletic sports training we are the professionals to see. Our staff holds itself 100% responsible for you attaining your goals. Most importantly this level of service is given to each and every member.</p>
+                      <h2>Photo Gallery</h2>
+                      <?php include "php/snippet-aboutcolorbox.php";?> <!-- colorbox -->
                       <h2>Leadership Team</h2>
                       <p>Real Training and Fitness was developed for one purpose; to provide the Erie Community with a facility focused on Results. Whether your goal is weight loss and toning up</p>
                       <div class="row">
@@ -72,8 +74,10 @@
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
         <script src="js/plugins.js"></script>
         <script src="js/bootstrap.js"></script>
-        <script src="js/main.js"></script>
         <script src="http://maps.googleapis.com/maps/api/js?sensor=false" type="text/javascript"></script>
         <script src="js/map.js"></script>
+        <script src="js/jquery.colorbox-min.js"></script>
+        <script src="js/main.js"></script>
+
     </body>
 </html>
