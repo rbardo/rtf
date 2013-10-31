@@ -27,31 +27,22 @@
             <?php include "php/nav.php";?>
             <header>
                 <div>
-                    <h1 class="text-center">Erie's Only<span class="red"> Results</span> Based Gym</h1>
+                    <h1 class="text-center">Real Training. Real Fitness. <span class="red">Real Results.</span></h1>
                 </div>
             </header>
             <section class="row">
                 <div class="col-md-12">
-                    <article class="col-md-8">
-                      <h2>Training &amp; Fitness That Delivers Results</h2>
-                      <p>Real Training and Fitness was developed for one purpose; to provide the Erie Community with a facility focused on Results. Whether your goal is weight loss and toning up, injury rehabilitation, or athletic sports training we are the professionals to see. Our staff holds itself 100% responsible for you attaining your goals. Most importantly this level of service is given to each and every member.</p>
-                      <h2>Photo Gallery</h2>
-                      <p>Our fitness center has all of the amentities and equipment you need to obtain maximum fitness results.
-                      <?php include "php/snippet-aboutcolorbox.php";?> <!-- colorbox -->
-                      <h2>Leadership Team</h2>
-                      <p>To be Erie's only Results based fitness center takes a leadership team that knows what it takes to obtain maximum fitness results. At RTF we have that leadership. Jack and Tony have proven they know what it takes to obtain results because they have obtained those results themselves - and they are 100% committed to helping their members achieve those same reuslts. </p>
+                    <article class="col-md-8">         
+                      <a href="http://g.co/maps/tc5ay" target="_blank">
+                        <div id="map_listing" style="width: 100%; height: 350px;"></div>
+                      </a>
                       <div class="row">
-                          <div class="col-md-3 col-sm-4 col-xs-4 text-center ">
-                              <img src="img/jackbio_tn.jpg" alt="" class="img-thumbnail">
-                              <h3 class="title"><a data-toggle="modal" href="#jack-modal">Jack Sullivan</a></h3>
-                              <small>Owner / CEO</small>
-                          </div>
-                          <div class="col-md-3 col-sm-4 col-xs-4 text-center modalphotos">
-                              <img src="img/tonybio_tn.jpg" alt="" class="img-thumbnail">
-                              <h3 class="title"><a data-toggle="modal" href="#tony-modal">Tony Bevaqua</a></h3>
-                              <small>General Manager</small>
-                          </div>
-                      </div>  
+                        <div class="col-md-12 well well-md top-margin  text-center">
+                          <h2>Our Current Promotion</h2>
+                          <p>Our competition training has helped many RTF athletes reach their goals and achieve top ranks in national competition</p>
+                          <button class="btn btn-secondary">Sign Up Today</button>
+                        </div>
+                      </div><!-- end promotion block -->
                     </article> <!-- end left content block -->
                     <aside class="col-md-4">
                         <?php include"php/form.php";?>
@@ -63,7 +54,7 @@
                           </div>
                         </div>
                     </aside> <!-- end sidebar -->
-                </div> <!-- end main content column -->
+                </div> <!-- end left content and sidebar parent column -->
             </section> <!-- end content wrapper -->
             <!-- modal -->
             <?php include "php/snippet-aboutusmodalbio.php";?>

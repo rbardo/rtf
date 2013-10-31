@@ -1,4 +1,4 @@
-<form role="form" class="well well-md">
+<form role="form" class="well well-md top-margin">
 	<h3>Membership / Training Request</h3>
   <div class="form-group">
     <label for="name">Name</label>
