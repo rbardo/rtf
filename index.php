@@ -37,16 +37,16 @@
             <section class="row">
                 <div class="col-md-4 col-sm-4 text-center">
                     <div class="home-blocks gf">
-                        <img src="img/gf_icon.png" alt="">
-                        <h2>Group Fitness</h2>
+                        <img src="img/pt_icon.png" alt="">
+                        <h2>Results</h2>
                         <p class="text-center">We specialize in sport specific training, weight loss, muscle and strength gain and injury rehabilitation </p>
                         <a href="#" class="btn btn-primary btn-lg">Fitness Classes</a>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-4 text-center">
                     <div class="home-blocks pt">
-                        <img src="img/pt_icon.png" alt="">
-                        <h2>Personal Training</h2>
+                        <img src="img/gf_icon.png" alt="">
+                        <h2>Training</h2>
                         <p class="text-center">We specialize in sport specific training, weight loss, muscle and strength gain and injury rehabilitation </p>
                         <a href="#" class="btn btn-primary btn-lg">Personal Training</a>
                     </div>
@@ -63,8 +63,7 @@
             <section class="row competition">
                 <div class="col-md-12 well well-md  text-center">
                     <h2>Our Current Promotion</h2>
-                    <p>Our competition training has helped many RTF athletes reach their goals and achieve top ranks in national competition</p>
-                    <button class="btn btn-secondary">Sign Up Today</button>
+                    <p>This content block is where you can update current promotions that your are currently offering.</p>
                 </div>
             </section> <!-- end competition block --> 
             <section class="row">
