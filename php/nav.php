@@ -16,7 +16,7 @@
 				<li><a href="training.php">Training</a></li>
 				<li><a href="">Results</a></li>
 				<li><a href="">Fitness News</a></li>
-				<li><a href="contact.php">Contact</a></li>
+				<li><a href="#footer-link">Contact</a></li>
 			</ul>
 		</div>
 	</div>

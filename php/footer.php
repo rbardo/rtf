@@ -13,7 +13,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-md-4">
+		<div class="col-md-4" id="footer-link">
 			<div class="hours-module">
 				<h2 class="text-center">Hours of Operation</h2>
 				<h3 class="odd">

@@ -17,6 +17,9 @@
         <link rel="stylesheet" href="css/main.css">
         <link rel="stylesheet" href="css/colorbox.css" />
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+         <!--[if lt IE 9]>
+        <script src="html5shiv.js"></script>
+        <![endif]-->
     </head>
     <body>
         <!--[if lt IE 7]>
@@ -79,6 +82,7 @@
         <script src="js/map.js"></script>
         <script src="js/jquery.colorbox-min.js"></script>
         <script src="js/main.js"></script>
+        <script src="js/respond.js"></script>
 
     </body>
 </html>
