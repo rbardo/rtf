@@ -26,7 +26,7 @@
 		<div class="modal-content">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-				<h2>Tony Bevaqua</h2>
+				<h2>Tony Bevacqua</h2>
 			</div> <!-- modal header -->
 			<div class="modal-body clearfix">
 				<div class="col-md-4 col-sm-4 col-xs-4">

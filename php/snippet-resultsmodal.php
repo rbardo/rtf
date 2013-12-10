@@ -1,4 +1,4 @@
-<section class="row">
+<section class="row top-margin">
 	<div class="col-md-3 col-sm-3 col-xs-6 text-center">
 		<img class="img-responsive img-thumbnail"src="img/anne_riggs_tn.jpg" alt="">
 		<h3 class="title"><a data-toggle="modal" href="#jack-modal">Anne Riggs</a></h3>
@@ -8,16 +8,35 @@
 		<h3 class="title"><a data-toggle="modal" href="#shea-modal">Daniel Harris</a></h3>
 	</div>
 	<div class="col-md-3 col-sm-3 col-xs-6 text-center">
-		<img class="img-responsive img-thumbnail" src="img/ryan_cpt.jpg" alt="">
-		<h3 class="title"><a data-toggle="modal" href="#ryan-modal">Ryan Sherwood</a></h3>
+		<img class="img-responsive img-thumbnail" src="img/joe_letto_tn.jpg" alt="">
+		<h3 class="title"><a data-toggle="modal" href="#ryan-modal">Joe Letto</a></h3>
 	</div>
 	<div class="col-md-3 col-sm-3 col-xs-6 text-center">
-		<img class="img-responsive img-thumbnail" src="img/antoinette_cpt.jpg" alt="">
-		<h3 class="title"><a data-toggle="modal" href="#antoinette-modal">Antoinette Sullivan</a></h3>
+		<img class="img-responsive img-thumbnail" src="img/kevin_klem_tn.jpg" alt="">
+		<h3 class="title"><a data-toggle="modal" href="#antoinette-modal">Kevin Klem</a></h3>
 	</div>
-</section> <!-- personal trainers -->
+</section> 
+<section class="row top-margin">
+	<div class="col-md-3 col-sm-3 col-xs-6 text-center">
+		<img class="img-responsive img-thumbnail"src="img/ravi_tn.jpg" alt="">
+		<h3 class="title"><a data-toggle="modal" href="#jack-modal">Ravi Yaparu</a></h3>
+	</div>
+	<div class="col-md-3 col-sm-3 col-xs-6 text-center">
+		<img class="img-responsive img-thumbnail"src="img/shea_sullivan_tn.jpg" alt="">
+		<h3 class="title"><a data-toggle="modal" href="#jack-modal">Shea Sullivan</a></h3>
+	</div>
+	<div class="col-md-3 col-sm-3 col-xs-6 text-center">
+		<img class="img-responsive img-thumbnail"src="img/tony_bevacqua_tn.jpg" alt="">
+		<h3 class="title"><a data-toggle="modal" href="#jack-modal">Tony Bevacqua</a></h3>
+	</div>
+	<div class="col-md-3 col-sm-3 col-xs-6 text-center">
+		<img class="img-responsive img-thumbnail"src="img/mitzi_shick_tn.jpg" alt="">
+		<h3 class="title"><a data-toggle="modal" href="#jack-modal">Mitzi Shick</a></h3>
+	</div>
+</section><!-- competitor results -->
 
-<!-- trainers modal -->
+
+<!-- competitors modal -->
 <section id="jack-modal" class="modal fade">
 	<div class="modal-dialog">
 		<div class="modal-content">

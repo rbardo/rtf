@@ -52,7 +52,7 @@
                           </div>
                           <div class="col-md-3 col-sm-4 col-xs-4 text-center modalphotos">
                               <img src="img/tonybio_tn.jpg" alt="" class="img-thumbnail">
-                              <h3 class="title"><a data-toggle="modal" href="#tony-modal">Tony Bevaqua</a></h3>
+                              <h3 class="title"><a data-toggle="modal" href="#tony-modal">Tony Bevacqua</a></h3>
                               <small>General Manager</small>
                           </div>
                       </div>  
