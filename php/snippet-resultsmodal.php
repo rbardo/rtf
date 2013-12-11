@@ -1,7 +1,7 @@
 <section class="row top-margin">
 	<div class="col-md-3 col-sm-3 col-xs-6 text-center">
 		<img class="img-responsive img-thumbnail"src="img/anne_riggs_tn.jpg" alt="">
-		<h3 class="title"><a data-toggle="modal" href="#jack-modal">Anne Riggs</a></h3>
+		<h3 class="title"><a data-toggle="modal" href="#anne-modal">Anne Riggs</a></h3>
 	</div>
 	<div class="col-md-3 col-sm-3 col-xs-6 text-center">
 		<img class="img-responsive img-thumbnail" src="img/daniel_harris_tn.jpg" alt="">
@@ -37,18 +37,21 @@
 
 
 <!-- competitors modal -->
-<section id="jack-modal" class="modal fade">
+<section id="anne-modal" class="modal fade">
 	<div class="modal-dialog">
 		<div class="modal-content">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-				<h2>Jack Sullivan</h2>
+				<h2>Anne Riggs</h2>
 			</div> <!-- modal header -->
 			<div class="modal-body clearfix">
-				<div class="col-md-4 col-sm-4 col-xs-4">
-				<img class="pull-left clearfix img-responsive"src="img/jackbio.jpg" alt="">
+				<div class="row">
+				<div class="col-md-12">
+				<img class="img-responsive img-center"src="img/anne_riggs.jpg" alt="">
 				</div>
-				<div class="col-md-8 col-sm-8 col-xs-8">
+				</div>
+				<div class="row top-margin">
+				<div class="col-md-12">
 				<ul class="text-left">
 					<li>Kinesiology and dietetics, Gannon University</li>
 					<li>AFPA Certified</li>
@@ -59,10 +62,11 @@
 					<li>10+ years personal training experience</li>
 				</ul>
 				</div>
+				</div>
 			</div> <!-- modal body --> 
 		</div> <!-- modal content -->
 	</div> <!-- modal dialog -->
-</section> <!-- trainers modal  -->
+</section> <!-- competitors modal  -->
 <section id="shea-modal" class="modal fade">
 	<div class="modal-dialog">
 		<div class="modal-content">
