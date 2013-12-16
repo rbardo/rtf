@@ -5,33 +5,33 @@
 	</div>
 	<div class="col-md-3 col-sm-3 col-xs-6 text-center">
 		<img class="img-responsive img-thumbnail" src="img/daniel_harris_tn.jpg" alt="">
-		<h3 class="title"><a data-toggle="modal" href="#shea-modal">Daniel Harris</a></h3>
+		<h3 class="title"><a data-toggle="modal" href="#daniel-harris-modal">Daniel Harris</a></h3>
 	</div>
 	<div class="col-md-3 col-sm-3 col-xs-6 text-center">
 		<img class="img-responsive img-thumbnail" src="img/joe_letto_tn.jpg" alt="">
-		<h3 class="title"><a data-toggle="modal" href="#ryan-modal">Joe Letto</a></h3>
+		<h3 class="title"><a data-toggle="modal" href="#joe-letto-modal">Joe Letto</a></h3>
 	</div>
 	<div class="col-md-3 col-sm-3 col-xs-6 text-center">
 		<img class="img-responsive img-thumbnail" src="img/kevin_klem_tn.jpg" alt="">
-		<h3 class="title"><a data-toggle="modal" href="#antoinette-modal">Kevin Klem</a></h3>
+		<h3 class="title"><a data-toggle="modal" href="#kevin-klem-modal">Kevin Klem</a></h3>
 	</div>
 </section> 
 <section class="row top-margin">
 	<div class="col-md-3 col-sm-3 col-xs-6 text-center">
 		<img class="img-responsive img-thumbnail"src="img/ravi_tn.jpg" alt="">
-		<h3 class="title"><a data-toggle="modal" href="#jack-modal">Ravi Yaparu</a></h3>
+		<h3 class="title"><a data-toggle="modal" href="#ravi-modal">Ravi Yaparu</a></h3>
 	</div>
 	<div class="col-md-3 col-sm-3 col-xs-6 text-center">
 		<img class="img-responsive img-thumbnail"src="img/shea_sullivan_tn.jpg" alt="">
-		<h3 class="title"><a data-toggle="modal" href="#jack-modal">Shea Sullivan</a></h3>
+		<h3 class="title"><a data-toggle="modal" href="#shea-modal">Shea Sullivan</a></h3>
 	</div>
 	<div class="col-md-3 col-sm-3 col-xs-6 text-center">
 		<img class="img-responsive img-thumbnail"src="img/tony_bevacqua_tn.jpg" alt="">
-		<h3 class="title"><a data-toggle="modal" href="#jack-modal">Tony Bevacqua</a></h3>
+		<h3 class="title"><a data-toggle="modal" href="#tony-bevacqua-modal">Tony Bevacqua</a></h3>
 	</div>
 	<div class="col-md-3 col-sm-3 col-xs-6 text-center">
 		<img class="img-responsive img-thumbnail"src="img/mitzi_shick_tn.jpg" alt="">
-		<h3 class="title"><a data-toggle="modal" href="#jack-modal">Mitzi Shick</a></h3>
+		<h3 class="title"><a data-toggle="modal" href="#mitzi-modal">Mitzi Shick</a></h3>
 	</div>
 </section><!-- competitor results -->
 
@@ -67,6 +67,126 @@
 		</div> <!-- modal content -->
 	</div> <!-- modal dialog -->
 </section> <!-- competitors modal  -->
+<section id="daniel-harris-modal" class="modal fade">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				<h2>Daniel Harris</h2>
+			</div> <!-- modal header -->
+			<div class="modal-body clearfix">
+				<div class="row">
+				<div class="col-md-12">
+				<img class="img-responsive img-center"src="img/daniel_harris.jpg" alt="">
+				</div>
+				</div>
+				<div class="row top-margin">
+				<div class="col-md-12">
+				<ul class="text-left">
+					<li>Kinesiology and dietetics, Gannon University</li>
+					<li>AFPA Certified</li>
+					<li>2011 Mr. Pittsburgh</li>
+					<li>2011 2nd place Jr USA Championships</li>
+					<li>2009 Great Lakes light heavyweight champion</li>
+					<li>Adult, child, and infant CPR certified, American Safety and Health Institute</li>
+					<li>10+ years personal training experience</li>
+				</ul>
+				</div>
+				</div>
+			</div> <!-- modal body --> 
+		</div> <!-- modal content -->
+	</div> <!-- modal dialog -->
+</section> <!-- competitors modal  -->
+<section id="joe-letto-modal" class="modal fade">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				<h2>Joe Letto</h2>
+			</div> <!-- modal header -->
+			<div class="modal-body clearfix">
+				<div class="row">
+				<div class="col-md-12">
+				<img class="img-responsive img-center"src="img/joe_letto.jpg" alt="">
+				</div>
+				</div>
+				<div class="row top-margin">
+				<div class="col-md-12">
+				<ul class="text-left">
+					<li>Kinesiology and dietetics, Gannon University</li>
+					<li>AFPA Certified</li>
+					<li>2011 Mr. Pittsburgh</li>
+					<li>2011 2nd place Jr USA Championships</li>
+					<li>2009 Great Lakes light heavyweight champion</li>
+					<li>Adult, child, and infant CPR certified, American Safety and Health Institute</li>
+					<li>10+ years personal training experience</li>
+				</ul>
+				</div>
+				</div>
+			</div> <!-- modal body --> 
+		</div> <!-- modal content -->
+	</div> <!-- modal dialog -->
+</section> <!-- competitors modal  -->
+<section id="kevin-klem-modal" class="modal fade">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				<h2>Kevin Klem</h2>
+			</div> <!-- modal header -->
+			<div class="modal-body clearfix">
+				<div class="row">
+				<div class="col-md-12">
+				<img class="img-responsive img-center"src="img/kevin_klem.jpg" alt="">
+				</div>
+				</div>
+				<div class="row top-margin">
+				<div class="col-md-12">
+				<ul class="text-left">
+					<li>Kinesiology and dietetics, Gannon University</li>
+					<li>AFPA Certified</li>
+					<li>2011 Mr. Pittsburgh</li>
+					<li>2011 2nd place Jr USA Championships</li>
+					<li>2009 Great Lakes light heavyweight champion</li>
+					<li>Adult, child, and infant CPR certified, American Safety and Health Institute</li>
+					<li>10+ years personal training experience</li>
+				</ul>
+				</div>
+				</div>
+			</div> <!-- modal body --> 
+		</div> <!-- modal content -->
+	</div> <!-- modal dialog -->
+</section> <!-- competitors modal  -->
+<section id="ravi-modal" class="modal fade">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				<h2>Ravi Yaparu</h2>
+			</div> <!-- modal header -->
+			<div class="modal-body clearfix">
+				<div class="row">
+				<div class="col-md-12">
+				<img class="img-responsive img-center"src="img/ravi.jpg" alt="">
+				</div>
+				</div>
+				<div class="row top-margin">
+				<div class="col-md-12">
+				<ul class="text-left">
+					<li>Kinesiology and dietetics, Gannon University</li>
+					<li>AFPA Certified</li>
+					<li>2011 Mr. Pittsburgh</li>
+					<li>2011 2nd place Jr USA Championships</li>
+					<li>2009 Great Lakes light heavyweight champion</li>
+					<li>Adult, child, and infant CPR certified, American Safety and Health Institute</li>
+					<li>10+ years personal training experience</li>
+				</ul>
+				</div>
+				</div>
+			</div> <!-- modal body --> 
+		</div> <!-- modal content -->
+	</div> <!-- modal dialog -->
+</section> <!-- competitors modal  -->
 <section id="shea-modal" class="modal fade">
 	<div class="modal-dialog">
 		<div class="modal-content">
@@ -75,71 +195,85 @@
 				<h2>Shea Sullivan</h2>
 			</div> <!-- modal header -->
 			<div class="modal-body clearfix">
-				<div class="col-md-4 col-sm-4 col-xs-4">
-				<img class="pull-left clearfix img-responsive"src="img/shea_cpt.jpg" alt="">
+				<div class="row">
+				<div class="col-md-12">
+				<img class="img-responsive img-center"src="img/shea.jpg" alt="">
 				</div>
-				<div class="col-md-8 col-sm-8 col-xs-8">
+				</div>
+				<div class="row top-margin">
+				<div class="col-md-12">
 				<ul class="text-left">
-					<li>TRX personal training and group suspension training certified</li>
-					<li>Viper certified</li>
-					<li>IFSTA certified personal trainer</li>
+					<li>Kinesiology and dietetics, Gannon University</li>
+					<li>AFPA Certified</li>
+					<li>2011 Mr. Pittsburgh</li>
+					<li>2011 2nd place Jr USA Championships</li>
+					<li>2009 Great Lakes light heavyweight champion</li>
 					<li>Adult, child, and infant CPR certified, American Safety and Health Institute</li>
-					<li>5+ years personal training experience</li>
+					<li>10+ years personal training experience</li>
 				</ul>
+				</div>
 				</div>
 			</div> <!-- modal body --> 
 		</div> <!-- modal content -->
 	</div> <!-- modal dialog -->
-</section> <!-- trainers modal  -->
-<section id="ryan-modal" class="modal fade">
+</section> <!-- competitors modal  -->
+<section id="tony-bevacqua-modal" class="modal fade">
 	<div class="modal-dialog">
 		<div class="modal-content">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-				<h2>Ryan Sherwood</h2>
+				<h2>Tony Bevacqua</h2>
 			</div> <!-- modal header -->
 			<div class="modal-body clearfix">
-				<div class="col-md-4 col-sm-4 col-xs-4">
-				<img class="pull-left clearfix img-responsive"src="img/ryan_cpt.jpg" alt="">
+				<div class="row">
+				<div class="col-md-12">
+				<img class="img-responsive img-center"src="img/tony_bevacqua.jpg" alt="">
 				</div>
-				<div class="col-md-8 col-sm-8 col-xs-8">
+				</div>
+				<div class="row top-margin">
+				<div class="col-md-12">
 				<ul class="text-left">
-					<li>Sport Science Buffalo University</li>
-					<li>NCSF certified personal trainer</li>
-					<li>Division 1 football letterman at Buffalo University</li>
-					<li>2 time national javelin champion</li>
-					<li>Specializing in athletic movement and performance</li>
+					<li>Kinesiology and dietetics, Gannon University</li>
+					<li>AFPA Certified</li>
+					<li>2011 Mr. Pittsburgh</li>
+					<li>2011 2nd place Jr USA Championships</li>
+					<li>2009 Great Lakes light heavyweight champion</li>
 					<li>Adult, child, and infant CPR certified, American Safety and Health Institute</li>
-					<li>4+ years personal training experience</li>
+					<li>10+ years personal training experience</li>
 				</ul>
+				</div>
 				</div>
 			</div> <!-- modal body --> 
 		</div> <!-- modal content -->
 	</div> <!-- modal dialog -->
-</section> <!-- trainers modal  -->
-<section id="antoinette-modal" class="modal fade">
+</section> <!-- competitors modal  -->
+<section id="mitzi-modal" class="modal fade">
 	<div class="modal-dialog">
 		<div class="modal-content">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-				<h2>Antoinette Sullivan</h2>
+				<h2>Mitzi Shick</h2>
 			</div> <!-- modal header -->
 			<div class="modal-body clearfix">
-				<div class="col-md-4 col-sm-4 col-xs-4">
-				<img class="pull-left clearfix img-responsive"src="img/antoinette_cpt.jpg" alt="">
+				<div class="row">
+				<div class="col-md-12">
+				<img class="img-responsive img-center"src="img/mitzi_shick.jpg" alt="">
 				</div>
-				<div class="col-md-8 col-sm-8 col-xs-8">
+				</div>
+				<div class="row top-margin">
+				<div class="col-md-12">
 				<ul class="text-left">
-					<li>Masters of Science degree in health and nutrition education, Hawthorn University</li>
-					<li>Certified personal trainer, AFPA</li>
-					<li>Exercise specialist, Alliance Rehab Inc.</li>
-					<li>Created and developed Sarah Reed Senior Living excercise program </li>
-					<li>TRX group suspension training certified</li>
+					<li>Kinesiology and dietetics, Gannon University</li>
+					<li>AFPA Certified</li>
+					<li>2011 Mr. Pittsburgh</li>
+					<li>2011 2nd place Jr USA Championships</li>
+					<li>2009 Great Lakes light heavyweight champion</li>
 					<li>Adult, child, and infant CPR certified, American Safety and Health Institute</li>
-					<li>5+ years personal training experience</li>
+					<li>10+ years personal training experience</li>
 				</ul>
+				</div>
 				</div>
 			</div> <!-- modal body --> 
 		</div> <!-- modal content -->
 	</div> <!-- modal dialog -->
-</section> <!-- trainers modal  -->
+</section> <!-- competitors modal  -->
